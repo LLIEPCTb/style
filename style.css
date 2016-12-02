@@ -1,0 +1,17 @@
+em {background-color: green; color: white;}
+p:first-letter {color: red; font-size: 30px;}
+#allotment h2 {color: #ff8500;}
+#allotment ol.fruits-list {color: gray;}
+#allotment ol.vegetables-list {color: red;}
+#warehouse h2 {color: blue;}
+#warehouse ol.fruits-list {color: green;}
+#warehouse ol.vegetables-list {color: red;}
+table {font-weight: bold;}
+thead {text-align: center;}
+tbody tr td:first-child {color: #ff8500; font-weight: normal;}
+tbody tr td:nth-child(n+2) {background-color: green; text-align: center; color: white;}
+ul {font-weight: bold;}
+.fruits-list {font-weight: normal;}
+.vegetables-list {font-weight: normal;}
+
+
